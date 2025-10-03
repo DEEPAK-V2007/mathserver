@@ -91,10 +91,8 @@ urlpatterns = [
 ```
 # SERVER SIDE PROCESSING:
 
-![alt text](<Terminal 1.png>)
-![alt text](Answer1.png)
-![alt text](<Terminal 2.png>)
-![alt text](<Answer 2.png>)
+![alt text](<Input 1.png>)
+![alt text](<Input 2.png>)
 
 # HOMEPAGE:
 ![alt text](<Home page.png>)
